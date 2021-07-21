@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GilvanPedro
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Python
+- 📫  Para me contatar, você pode me seguir no Twitter e me mencioner em um post seu. https://twitter.com/C6_Gil
