@@ -9,4 +9,7 @@
 https://twitch.tv/c6_gil
 
 
-![75b2a4f62b3757abee071fa31c61ee23 2](https://user-images.githubusercontent.com/87739497/126885805-1b1094bd-f9b9-4a0f-a32c-5135db72fde0.jpg)
+![tumblr_n4ljbtQS9i1raiwcso1_500 1](https://user-images.githubusercontent.com/87739497/126885858-a6a3bea2-15e5-40a2-b892-2840c2bc42d1.gif)
+
+![tumblr_n4ljbtQS9i1raiwcso1_500 1](https://37.media.tumblr.com/a4cfb0cf36b9936bb988cc0751bbb2f9/tumblr_n4xdautoDY1tax9aio1_500.gif)
+
