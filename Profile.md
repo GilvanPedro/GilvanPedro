@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @GilvanPedro
 - 👀 I’m interested in programming, digital design and lives!!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 📫  Para me contatar, você pode me seguir no Twitter e me mencioner em um post seu. https://twitter.com/C6_Gil
 
 
 
 
-https://twitch.tv/c6_gil
+https://twitch.tv/gilvannp
 
 
 ![tumblr_n4ljbtQS9i1raiwcso1_500 1](https://37.media.tumblr.com/a4cfb0cf36b9936bb988cc0751bbb2f9/tumblr_n4xdautoDY1tax9aio1_500.gif)
