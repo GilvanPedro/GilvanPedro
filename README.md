@@ -38,6 +38,7 @@
             src="https://widgetbite.com/stats/<github-GilvanPedro>"/>  
     </div>
 
+![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c374d9&height=120&section=footer"/>
 
