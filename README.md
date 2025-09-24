@@ -9,13 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GilvanPedro&bg_color=000000&color=fff&line=a218c8&point=c67fe9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GilvanPedro&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
- 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GilvanPedro&theme=dark&hide_border=true&background=0d1117&stroke=c9d1d9&ring=87CEFA&fire=87CEFA&currStreakLabel=c9d1d9"/>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -30,6 +23,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GilvanPedro&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+ 
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GilvanPedro&theme=dark&hide_border=true&background=0d1117&stroke=c9d1d9&ring=87CEFA&fire=87CEFA&currStreakLabel=c9d1d9"/>
 </div>
 
 <p align="center">
