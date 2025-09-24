@@ -32,13 +32,13 @@
 
 </div>
 
-  <div align="center">
-    <p align="centre"><b>Visitors Count</b></p>  
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-GilvanPedro>"/>  
-    </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=610092&size=22&center=true&vCenter=true&width=450&lines=🔮+Hoje+eu+vejo...;Muito+café+☕;Mais+commits+⚡;E+um+push+no+GitHub!+🚀">
+</p>
 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GilvanPedro&color=blue" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c374d9&height=120&section=footer"/>
-
