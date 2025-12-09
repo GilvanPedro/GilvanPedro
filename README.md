@@ -2,9 +2,40 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74128f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gilvan;I+am+from+Goiás,+GO;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GilvanPedro&show_icons=true&count_private=true&hide_border=true&title_color=a218c8&icon_color=610092&text_color=c9d1d9&bg_color=0d1117" alt="Gilvan Pedro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPedro&layout=compact&hide_border=true&title_color=a218c8&text_color=fff&bg_color=0d1117" />
+<div align="center">
+
+<h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table>
+  <tr>
+    <td>
+      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/GilvanPedro">
+        <img src="https://github-readme-stats.vercel.app/api?username=GilvanPedro&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/GilvanPedro">
+        <img src="https://streak-stats.demolab.com?user=GilvanPedro&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <a href="https://github.com/GilvanPedro/storyblok-mcp-server">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=GilvanPedro&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+      </a>
+    </td>
+    <td>
+      <h3><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <a href="https://github.com/GilvanPedro">
+        <img src="https://github-contributor-stats.vercel.app/api?username=GilvanPedro&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GilvanPedro&bg_color=000000&color=fff&line=a218c8&point=c67fe9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
