@@ -5,6 +5,9 @@
 <div align="center">
 
 <h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GilvanPedro&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 <table>
   <tr>
     <td>
