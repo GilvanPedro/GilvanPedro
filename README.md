@@ -28,7 +28,7 @@
     <td>
       <h3><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <a href="https://github.com/GilvanPedro/Alarme.git">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=GilvanPedro&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=GilvanPedro&repo=Alarme&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
       </a>
     </td>
     <td>
