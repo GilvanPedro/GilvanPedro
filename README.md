@@ -6,8 +6,6 @@
 
 <h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GilvanPedro&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 <table>
   <tr>
     <td>
@@ -65,10 +63,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GilvanPedro&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
- 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GilvanPedro&theme=dark&hide_border=true&background=0d1117&stroke=c9d1d9&ring=87CEFA&fire=87CEFA&currStreakLabel=c9d1d9"/>
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
