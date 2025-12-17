@@ -39,7 +39,7 @@
 </table>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GilvanPedro&bg_color=000000&color=fff&line=a218c8&point=c67fe9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GilvanPedro&bg_color=000000&color=ffffff&line=9b70ff&point=ff0059&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Tech Stack
 
