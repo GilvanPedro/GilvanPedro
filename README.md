@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h3 align="center">Linguagens Conhecidas</h3>
+<h2 align="center">Linguagens Conhecidas</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<h3 align="center">Sociais</h3>
+<h2 align="center">Sociais</h2>
 
 ###
 
