@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Sobre Mim</h1>
+<h3 align="center">SOBRE MIM</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h2 align="center">Linguagens Conhecidas</h2>
+<h3 align="center">Linguagens Conhecidas</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<h2 align="center">Sociais</h2>
+<h3 align="center">Sociais</h3>
 
 ###
 
