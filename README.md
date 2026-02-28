@@ -1,79 +1,86 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c374d9&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74128f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gilvan;I+am+from+Goiás,+GO;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h2 align="center">Linguagens Conhecidas</h2>
+
+###
 
 <div align="center">
-
-<h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table>
-  <tr>
-    <td>
-      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <a href="https://github.com/GilvanPedro">
-        <img src="https://github-readme-stats.vercel.app/api?username=GilvanPedro&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <a href="https://github.com/GilvanPedro">
-        <img src="https://streak-stats.demolab.com?user=GilvanPedro&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <a href="https://github.com/GilvanPedro/Steam_API_Teste.git">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=GilvanPedro&repoRanch_System&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
-      </a>
-    </td>
-    <td>
-      <h3><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <a href="https://github.com/GilvanPedro">
-        <img src="https://github-contributor-stats.vercel.app/api?username=GilvanPedro&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GilvanPedro&bg_color=000000&color=ffffff&line=9b70ff&point=ff0059&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🛠️ Tech Stack
+###
 
 <div align="center">
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+  <a href="https://www.instagram.com/gilvan_.pedro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/gilvannp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="mailto:gilvanpedro2006@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gilvannp/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/gilvannp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+###
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GilvanPedro&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/@:GilvanPedro?theme=rule34&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=c374d9&size=22&center=true&vCenter=true&width=450&lines=🔮+Hoje+eu+vejo...;Muito+café+☕;Mais+commits+⚡;E+um+push+no+GitHub!+🚀">
-</p>
+<img align="right" height="250" src="https://i.pinimg.com/originals/ae/81/0a/ae810a114ef56535d5c7de5feb5935bb.gif"  />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GilvanPedro&color=610092" />
-</p>
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c374d9&height=120&section=footer"/>
+<h1 align="center">Sobre Mim</h1>
+
+###
+
+<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software focado em java. Com foco em construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Status</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilvanPedro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GilvanPedro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GilvanPedro/GilvanPedro/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Gilvannp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gilvannp&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
