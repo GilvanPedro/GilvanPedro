@@ -1,6 +1,30 @@
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=baa4e1"  />
+</div>
+
+###
+
+<img align="right" height="250" src="https://i.pinimg.com/originals/ae/81/0a/ae810a114ef56535d5c7de5feb5935bb.gif"  />
+
+###
+
+<h1 align="center">Sobre Mim</h1>
+
+###
+
+<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software focado em java. Com foco em construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
+
+###
+
+<br clear="both">
+
 <h3 align="center">Linguagens Conhecidas</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -16,9 +40,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
-<h3 align="center">Redes Sociais</h3>
+###
+
+<br clear="both">
+
+<h3 align="center">Sociais</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/gilvan_.pedro/" target="_blank">
@@ -40,24 +70,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:GilvanPedro?theme=rule34&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
-</div>
-
-###
-
-<img align="right" height="250" src="https://i.pinimg.com/originals/ae/81/0a/ae810a114ef56535d5c7de5feb5935bb.gif"  />
-
-###
-
-<h1 align="center">Sobre Mim</h1>
-
-###
-
-<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software focado em java. Com foco em construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
-
-###
-
 <br clear="both">
 
 <h1 align="center">Status</h1>
@@ -73,6 +85,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://count.getloli.com/@:GilvanPedro?theme=rule34&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GilvanPedro/GilvanPedro/output/snake.svg" alt="Snake animation" />
@@ -83,6 +101,14 @@
   <a href="https://open.spotify.com/user/Gilvannp">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gilvannp&count=5" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=baa4e1"  />
 </div>
 
 ###
