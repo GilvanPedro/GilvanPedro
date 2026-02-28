@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software focado em java. Com foco em construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
+<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software tendo java como principal linguagem. Tenho como objetivo construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
 
 ###
 
