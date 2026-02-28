@@ -1,4 +1,4 @@
-<h2 align="center">Linguagens Conhecidas</h2>
+<h3 align="center">Linguagens Conhecidas</h3>
 
 ###
 
