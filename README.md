@@ -10,17 +10,17 @@
 
 ###
 
-<h3 align="center">SOBRE MIM</h3>
+<h1 align="center">Sobre Mim</h1>
 
 ###
 
-<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software tendo java como principal linguagem. Tenho como objetivo construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
+<p align="left">Olá mundo! Eu sou o Gilvan✌️<br>Sou um desenvolvedor de software focado em java. Com foco em construir aplicações escaláveis e performáticas. Gosto de desenvolver projetos que vão facilitar a minha vida e estou sempre em busca de novos desafios técnicos.</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Linguagens Conhecidas</h3>
+<h3 align="center">Ferramentas Conhecidas</h3>
 
 ###
 
@@ -38,6 +38,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
