@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Sobre Mim</h1>
+<h3 align="center">Sobre Mim</h3>
 
 ###
 
