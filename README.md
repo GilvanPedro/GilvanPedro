@@ -52,6 +52,16 @@
 
 <br clear="both">
 
+###
+
+<div align="center">
+<h3>Musics</h3>
+  
+  <a href="https://open.spotify.com/user/Gilvannp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pvoexpixbv1o1ro0htt4qt9sb&count=5" />
+  </a>
+</div>
+
 <h3 align="center">Sociais</h3>
 
 ###
