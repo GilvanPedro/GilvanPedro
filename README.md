@@ -65,15 +65,14 @@ public class Gilvan {
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilvanPedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilvanPedro&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
-</div>
-
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GilvanPedro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
+</div>
+
+<div align="center" padding=10px>
+  <img src="https://ghstats.dev/api/langs?username=GilvanPedro&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
