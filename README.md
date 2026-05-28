@@ -85,7 +85,7 @@ public class Gilvan {
 
 <div align="center">
   <a href="https://open.spotify.com/user/Gilvannp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pvoexpixbv1o1ro0htt4qt9sb&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pvoexpixbv1o1ro0htt4qt9sb&count=10" alt="Spotify recently played" />
   </a>
 </div>
 
