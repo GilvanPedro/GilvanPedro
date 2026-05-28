@@ -1,60 +1,153 @@
 ```java
-public class Gilvan {
+public class GilvanPedro {
 
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    //  SOBRE MIM
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    /*
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     *  ABOUT ME
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     */
 
-    String  nome        = "Gilvan Pedro";
-    int     idade       = 18;
-    String  cidade      = "Brasil";
-    String  foco        = "Back-end Developer";
-    boolean aberto_a_desafios = true;
+    private final String name     = "Gilvan Pedro";
+    private final int age         = 18;
+    private final String country  = "Brazil";
 
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    //  STACK
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    private final String role     = "Back-end Developer";
+    private final String college  = "Software Engineering @ SENAI Goiás";
 
-    String[] linguagens  = { "Java", "Python", "JavaScript" };
-    String[] frameworks  = { "Spring Boot", "Hibernate" };
-    String[] banco_dados = { "MySQL", "PostgreSQL" };
-    String[] ferramentas = { "Git", "Docker", "IntelliJ IDEA", "VSCode" };
-    String[] aprendendo  = { "Microsserviços", "AWS", "Clean Architecture", "Kotlin" };
+    private final boolean availableForWork = true;
 
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    //  REDES SOCIAIS
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    /*
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     *  TECH STACK
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     */
 
-    String github    = "github.com/GilvanPedro";
-    String linkedin  = "linkedin.com/in/gilvannp";
-    String instagram = "instagram.com/gilvan_.pedro";
-    String twitch    = "twitch.tv/gilvannp";
-    String twitter   = "x.com/gilvannp";
-    String email     = "gilvanpedro2006@exemplo.com";
+    private final String[] languages = {
+            "Java",
+            "Python",
+            "JavaScript",
+            "SQL"
+    };
 
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    //  MÉTODOS
-    // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    private final String[] backend = {
+            "Spring Boot",
+            "Hibernate",
+            "REST APIs"
+    };
 
-    public String objetivo() {
-        return "Construir aplicações escaláveis e performáticas"
-             + " que facilitem a vida das pessoas.";
+    private final String[] database = {
+            "MySQL",
+            "PostgreSQL"
+    };
+
+    private final String[] tools = {
+            "Git",
+            "Docker",
+            "IntelliJ IDEA",
+            "VS Code",
+            "Linux"
+    };
+
+    private final String[] currentlyLearning = {
+            "AWS",
+            "Microservices",
+            "Clean Architecture",
+            "Kotlin"
+    };
+
+    /*
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     *  SOCIALS
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     */
+
+    private final String github   = "github.com/GilvanPedro";
+    private final String linkedin = "linkedin.com/in/gilvannp";
+    private final String instagram = "instagram.com/gilvan_.pedro";
+
+    /*
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     *  METHODS
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     */
+
+    public String aboutMe() {
+        return """
+                Passionate about technology, programming and problem solving.
+                Focused on back-end development and always improving my skills.
+                """;
+    }
+
+    public String currentGoal() {
+        return "Building scalable and efficient applications.";
     }
 
     public String[] hobbies() {
-        return new String[] { "Programar", "Games", "Música", "Twitch" };
+        return new String[] {
+                "Programming",
+                "Gaming",
+                "Reading",
+                "Music"
+        };
     }
 
     public String status() {
-        return aberto_a_desafios
-            ? "✅ Disponível para novas oportunidades"
-            : "❌ Ocupado no momento";
+        return availableForWork
+                ? "🟢 Open to opportunities"
+                : "🔴 Currently busy";
     }
 
+    public void printStack() {
+
+        System.out.println("💻 Languages:");
+        for (String language : languages) {
+            System.out.println(" - " + language);
+        }
+
+        System.out.println("\n⚙️ Backend:");
+        for (String tech : backend) {
+            System.out.println(" - " + tech);
+        }
+    }
+
+    /*
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     *  MAIN
+     * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     */
+
     public static void main(String[] args) {
-        Gilvan eu = new Gilvan();
-        System.out.println("Olá, mundo! Eu sou o " + eu.nome + " 👋");
-        System.out.println(eu.status());
+
+        GilvanPedro dev = new GilvanPedro();
+
+        System.out.println("""
+                 ██████╗ ██╗██╗     ██╗   ██╗ █████╗ ███╗   ██╗
+                ██╔════╝ ██║██║     ██║   ██║██╔══██╗████╗  ██║
+                ██║  ███╗██║██║     ██║   ██║███████║██╔██╗ ██║
+                ██║   ██║██║██║     ╚██╗ ██╔╝██╔══██║██║╚██╗██║
+                ╚██████╔╝██║███████╗ ╚████╔╝ ██║  ██║██║ ╚████║
+                 ╚═════╝ ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
+                """);
+
+        System.out.println("Hey there! I'm " + dev.name + " 👋\n");
+
+        System.out.println("🎯 Role: " + dev.role);
+        System.out.println("📚 College: " + dev.college);
+        System.out.println("🌎 Country: " + dev.country);
+
+        System.out.println("\n" + dev.status());
+
+        System.out.println("\n🚀 Goal:");
+        System.out.println(dev.currentGoal());
+
+        System.out.println("\n📌 About Me:");
+        System.out.println(dev.aboutMe());
+
+        System.out.println("\n🔗 GitHub:");
+        System.out.println(dev.github);
+
+        System.out.println();
+        dev.printStack();
     }
 }
 ```
