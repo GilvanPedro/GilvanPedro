@@ -87,7 +87,8 @@ public class GilvanPedro {
                 "Programming",
                 "Gaming",
                 "Reading",
-                "Music"
+                "Music",
+                "Anime"
         };
     }
 
