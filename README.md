@@ -93,18 +93,18 @@ public class GilvanPedro {
 
     public String status() {
         return availableForWork
-                ? "🟢 Open to opportunities"
-                : "🔴 Currently busy";
+                ? "Open to opportunities"
+                : "Currently busy";
     }
 
     public void printStack() {
 
-        System.out.println("💻 Languages:");
+        System.out.println("Languages:");
         for (String language : languages) {
             System.out.println(" - " + language);
         }
 
-        System.out.println("\n⚙️ Backend:");
+        System.out.println("\nBackend:");
         for (String tech : backend) {
             System.out.println(" - " + tech);
         }
@@ -129,21 +129,21 @@ public class GilvanPedro {
                  ╚═════╝ ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
                 """);
 
-        System.out.println("Hey there! I'm " + dev.name + " 👋\n");
+        System.out.println("Hey there! I'm " + dev.name);
 
-        System.out.println("🎯 Role: " + dev.role);
-        System.out.println("📚 College: " + dev.college);
-        System.out.println("🌎 Country: " + dev.country);
+        System.out.println("Role: " + dev.role);
+        System.out.println("College: " + dev.college);
+        System.out.println("Country: " + dev.country);
 
         System.out.println("\n" + dev.status());
 
-        System.out.println("\n🚀 Goal:");
+        System.out.println("\nGoal:");
         System.out.println(dev.currentGoal());
 
-        System.out.println("\n📌 About Me:");
+        System.out.println("\nAbout Me:");
         System.out.println(dev.aboutMe());
 
-        System.out.println("\n🔗 GitHub:");
+        System.out.println("\nGitHub:");
         System.out.println(dev.github);
 
         System.out.println();
@@ -154,7 +154,7 @@ public class GilvanPedro {
 
 ---
 
-<h3 align="center">📊 Contribuições</h3>
+<h3 align="center">Contribuições</h3>
 
 <br>
 
@@ -172,7 +172,7 @@ public class GilvanPedro {
 
 ---
 
-<h3 align="center">🎵 Tocadas Recentemente</h3>
+<h3 align="center">Tocadas Recentemente</h3>
 
 <br>
 
@@ -186,7 +186,7 @@ public class GilvanPedro {
 
 ---
 
-<h3 align="center">📬 Sociais</h3>
+<h3 align="center">Sociais</h3>
 
 <br>
 
