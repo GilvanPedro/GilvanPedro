@@ -42,7 +42,6 @@ public class GilvanPedro {
 
     private final String[] tools = {
             "Git",
-            "Docker",
             "IntelliJ IDEA",
             "VS Code",
             "Linux"
